@@ -165,6 +165,7 @@ Sinta-se à vontade para explorar meus projetos e acompanhar essa jornada de evo
       align="left" 
       alt="GitHub Stats" 
       height="195" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlyssesAugusto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 

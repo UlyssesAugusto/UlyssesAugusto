@@ -156,7 +156,7 @@ Sinta-se à vontade para explorar meus projetos e acompanhar essa jornada de evo
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="199" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=UlyssesAugusto&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
@@ -164,8 +164,7 @@ Sinta-se à vontade para explorar meus projetos e acompanhar essa jornada de evo
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="190" 
-      style="padding-right: 5px;" 
+      height="199" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlyssesAugusto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
